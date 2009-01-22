@@ -10,9 +10,13 @@
  *
  * http://www.safalra.com/web-design/javascript/
  * ----------------------------------------------------------------------------
- * 2009/01/14
- * The code is modified by Kenji Tayama (kenji.tayama@gmail.com) to support
- * rectangular icons and captions images with sizes independent from the 
+ * 2009/01/22
+ * Forked version created by Kenji Tayama.
+ *
+ * Hosted on GitHub
+ * http://github.com/kenjitayama/macosx-like-dock.js
+ *
+ * Now supports rectangular icons and captions images with sizes independent from the 
  * icon images(so that long captions can be displayed over the icons).
  */
 
